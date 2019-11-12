@@ -5,10 +5,11 @@ The dataset I used can be found on https://www.kaggle.com/spscientist/students-p
 ## Running the program
 To be able to run the program, please download MATLAB or Octave.
 All the files should be in the current directory.
-Then open the livescript LinearRegression.mlx
+Then open the livescript LinearRegression.mlx.
 The user just has to run it section by section after importing the CSV file, StudentsPerformance.csv, as a table. 
 
-The features I used are
+## Details
+The features I used are:
   * Gender
   * Ethnic Group
   * Parents' highest level of education
