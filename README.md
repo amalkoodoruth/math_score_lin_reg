@@ -3,10 +3,13 @@ This model coded on MATLAB uses Linear Regression to predict the math scores of 
 The dataset I used can be found on https://www.kaggle.com/spscientist/students-performance-in-exams
 
 ## Running the program
-This is pretty straight forward with the livescript. The user just has to run it section by section after importing the CSV file, StudentsPerformance.csv, as a table. 
+To be able to run the program, please download MATLAB or Octave.
+All the files should be in the current directory.
+Then open the livescript LinearRegression.mlx
+The user just has to run it section by section after importing the CSV file, StudentsPerformance.csv, as a table. 
 
 The features I used are
-  * Gendre
+  * Gender
   * Ethnic Group
   * Parents' highest level of education
   * Lunch type
