@@ -1,6 +1,7 @@
 # Math Score Prediction using Linear Regression
 This model coded on MATLAB uses Linear Regression to predict the math scores of students of a particular school.
 The dataset I used can be found on https://www.kaggle.com/spscientist/students-performance-in-exams
+I did this project after taking Machine Learning on Coursera. I recycled some of my code and I also used the ideas explained in the course.
 
 ## Running the program
 To be able to run the program, please download MATLAB or Octave.
