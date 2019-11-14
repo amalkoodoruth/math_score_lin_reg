@@ -27,4 +27,4 @@ After training the model, the user can make predictions for a particular student
 The accuracy of the model is the predicted value for a particular student with a mean absolute error of about 19%
 In other words, it is very probable that the student has scored anything in the range [predicted value - 19%, predicted value + 19%]
 
-I am working on how to improve the presentation of the model. For the time being, the user should double click on the CSV file which is in the directory and import it as a table. I will update is as soon as possible.
+I am working on how to improve the presentation of the model. For the time being, the user should double click on the CSV file which is in the directory and import it as a table. I will update it as soon as possible.
